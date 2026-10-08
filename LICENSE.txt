@@ -1,0 +1,49 @@
+# TinyFont Free Commercial Use License v1.0
+
+Copyright (c) 2026 ipdhlee. All rights reserved.
+
+## 1. Permission
+
+Permission is granted, free of charge, to use TinyFont for personal and commercial purposes.
+
+Permitted uses include games, software, websites, videos, graphics, advertisements, documents, and other creative works.
+
+You may distribute and sell finished works that use TinyFont.
+
+You may embed or bundle TinyFont as an integral part of a finished work, including providing font files when technically necessary for that work to function.
+
+Technical format conversion and subsetting are permitted solely for compatibility or embedding, provided the font's visual design is not intentionally altered.
+
+## 2. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- Modify or redesign the font's glyphs.
+- Create or distribute modified font versions.
+- Redistribute or mirror TinyFont as a standalone downloadable font.
+- Sell TinyFont as a standalone product or reusable font asset.
+- Sublicense the font or claim ownership of it.
+
+Embedding TinyFont in a finished work does not grant permission to redistribute it separately as a reusable font.
+
+## 3. Attribution
+
+Attribution is appreciated but not required.
+
+Suggested credit: TinyFont by ipdhlee
+
+## 4. Ownership
+
+All ownership rights in TinyFont remain with the copyright holder.
+
+This license grants permission to use the font but does not transfer ownership.
+
+## 5. Termination
+
+Permission under this license terminates upon a material violation of its terms.
+
+## 6. Disclaimer
+
+TinyFont is provided "AS IS", without warranties of any kind, to the extent permitted by applicable law.
+
+The copyright holder shall not be liable for damages resulting from the use of TinyFont, to the extent permitted by applicable law.

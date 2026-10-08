@@ -1,9 +1,22 @@
 # TinyFont
 
-A tiny pixel font for games and interfaces.
+A tiny pixel typeface for games and interfaces.
 
-![TinyFont Preview](TinyFont-preview.png)
+![TinyFont](TinyFont-preview.png)
 
-[Download](https://github.com/ldh-1120/TinyFont/releases) · [License](LICENSE.txt)
+**[Download](https://github.com/ldh-1120/TinyFont/releases)** · **[License](LICENSE.txt)**
 
-Created by **ipdhlee**.
+---
+
+### Usage
+
+Free for personal and commercial use.
+
+- Use in games, applications, websites, and creative projects.
+- Modification and standalone redistribution are not permitted.
+
+See [LICENSE.txt](LICENSE.txt) for full terms.
+
+---
+
+*Designed by [ipdhlee](https://github.com/ldh-1120).*
